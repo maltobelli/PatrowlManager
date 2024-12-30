@@ -24,7 +24,7 @@ gunicorn==19.10.0
 idna==2.5
 importlib-metadata==0.23
 itypes==1.1.0
-Jinja2==2.10.1
+Jinja2==3.1.5
 jsonfield==2.0.2
 kombu==4.6.4
 libmagic==1.0
